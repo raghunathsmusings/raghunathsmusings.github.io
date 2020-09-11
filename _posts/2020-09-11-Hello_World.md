@@ -1,6 +1,7 @@
 # Image Alignments and Heading Sizes
 
 This image is a Left Aligned Image
+
 ![](/images/media/image1.png){: style="float: left"}
 
 
@@ -8,6 +9,7 @@ This image is a Left Aligned Image
 
 
 This image is a Center Aligned Image
+
 ![](/images/media/image1.png){: style="float: center"}
 
 
@@ -15,6 +17,7 @@ This image is a Center Aligned Image
 
 
 This image is a Right Aligned Image
+
 ![](/images/media/image1.png){: style="float: right"}
 
 
