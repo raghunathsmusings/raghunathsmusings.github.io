@@ -1,16 +1,24 @@
 # Image Alignments and Heading Sizes
 
-## Left Aligned Image\n
-![](/images/media/image1.png){: style="float: left"}\n
-\n  
-## Center Aligned Image\n
-![](/images/media/image1.png){: style="float: center"}\n  
-\n
+## Left Aligned Image
+![](/images/media/image1.png){: style="float: left"}
+
+
+
+
+
+## Center Aligned Image
+![](/images/media/image1.png){: style="float: center"}
+
+
+
+
+
 ## Right Aligned Image  
-![](/images/media/image1.png){: style="float: right"}  
-¬
-¬
-¬
+![](/images/media/image1.png){: style="float: right"}
+
+
+
 
 # Hello World\_1
 
