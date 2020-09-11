@@ -5,9 +5,10 @@ This image is 1st Left Aligned Image
 ![](/images/media/image1.png){: style="float: left"}
 
 
+<p>
 This image is 2nd Left Aligned Image
 <img src="/images/media/image1.png" float="left">
-
+</p>
 
 
 <!--- This image is a Center Aligned Image
