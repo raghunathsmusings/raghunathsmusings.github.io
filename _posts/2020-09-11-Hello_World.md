@@ -2,14 +2,14 @@
 
 This image is 2nd Left Aligned Image
 
-![](/images/media/image1.png){: style="float: left"}
+![](/images/media/image1.png) <!--- {: style="float: left"} -->
 
 
 ##  
 
 This image is 1st Left Aligned Image
 
-![](/images/media/image1.png){: style="float: left"}
+![](/images/media/image1.png) <!--- {: style="float: left"} -->
 
 ##  
 
@@ -23,7 +23,7 @@ This image is 1st Left Aligned Image
 
 This image is a Right Aligned Image
 
-![](/images/media/image1.png){: style="float: right"}
+![](/images/media/image1.png)<!--- {: style="float: right"} -->
 
 
 
