@@ -1,9 +1,13 @@
 # Image Alignments and Heading Sizes
 
-This image is a Left Aligned Image
+This image is 1st Left Aligned Image
 
 ![](/images/media/image1.png){: style="float: left"}
 
+
+This image is 2nd Left Aligned Image
+
+![](/images/media/image1.png){: style="float: left"}
 
 
 
