@@ -1,11 +1,11 @@
-# Left Aliged Image
-![Hello World](/images/media/image1.png){: style="float: left"}
+# Left Aligned Image
+![Hello World](/images/media/image1.png){: style="float: left"}  
 
-# Center Aliged Image
-![Hello World](/images/media/image1.png){: style="float: center"}
+# Center Aligned Image
+![Hello World](/images/media/image1.png){: style="float: center"}  
 
-# Right Aliged Image
-![Hello World](/images/media/image1.png){: style="float: right"}
+# Right Aligned Image
+![Hello World](/images/media/image1.png){: style="float: right"}  
 
 
 # Hello World\_1
