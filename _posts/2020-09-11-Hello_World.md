@@ -1,8 +1,9 @@
-<img align="left" src="name//media/image1.png" style="width:3.20833in;height:1.69792in" 
+![Hello World](/images/media/image1.png){: style="float: left"}
 
-<img align="center" src="name//media/image1.png" style="width:3.20833in;height:1.69792in"
+![Hello World](/images/media/image1.png){: style="float: center"}
 
-<img align="right" src="name//media/image1.png" style="width:3.20833in;height:1.69792in" 
+![Hello World](/images/media/image1.png){: style="float: right"}
+
 
 # Hello World\_1
 
