@@ -5,10 +5,8 @@ This image is 1st Left Aligned Image
 ![](/images/media/image1.png){: style="float: left"}
 
 
-\r\nThis image is 2nd Left Aligned Image
-
-![](/images/media/image1.png){: style="float: left"}
-
+This image is 2nd Left Aligned Image
+<img src="/images/media/image1.png" float="left">
 
 
 
