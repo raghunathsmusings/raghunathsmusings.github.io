@@ -8,9 +8,9 @@ This image is a Left Aligned Image
 
 
 
-This image is a Center Aligned Image
+<!--- This image is a Center Aligned Image
 
-![](/images/media/image1.png){: style="float: center"}
+![](/images/media/image1.png){: style="float: center"} -->
 
 
 
